@@ -1,0 +1,19 @@
+{
+  "name": "USDT",
+  "timestamp": "2026-05-24T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xf5b7B17281EccB1f26705b3e7ae28d010242850d",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/yieldxd/assets/master/blockchains/smartchain/assets/0xf5b7B17281EccB1f26705b3e7ae28d010242850d/logo.png"
+    }
+  ]
+}
