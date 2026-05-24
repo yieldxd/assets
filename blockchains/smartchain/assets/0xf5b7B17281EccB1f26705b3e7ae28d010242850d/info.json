@@ -1,0 +1,11 @@
+{
+  "name": "USDT",
+  "website": "",
+  "description": "BEP20 token on BNB Smart Chain",
+  "explorer": "https://bscscan.com/token/0xf5b7B17281EccB1f26705b3e7ae28d010242850d",
+  "type": "BEP20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xf5b7B17281EccB1f26705b3e7ae28d010242850d"
+}
